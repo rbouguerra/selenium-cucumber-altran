@@ -1,0 +1,15 @@
+C:\Users\bougu\eclipse-workspace\framework-selenium-cucumber\src\test\java\com\e2eTest\altran\util\CommonMethods.java
+C:\Users\bougu\eclipse-workspace\framework-selenium-cucumber\src\test\java\com\e2eTest\altran\util\DriverManager.java
+C:\Users\bougu\eclipse-workspace\framework-selenium-cucumber\src\test\java\com\e2eTest\altran\cseAltran\pageObjects\CseAltranDemoPage.java
+C:\Users\bougu\eclipse-workspace\framework-selenium-cucumber\src\test\java\com\e2eTest\altran\webSiteAltran\pageObjects\WebSiteAltranPage.java
+C:\Users\bougu\eclipse-workspace\framework-selenium-cucumber\src\test\java\com\e2eTest\altran\util\InternetExplorerDriver.java
+C:\Users\bougu\eclipse-workspace\framework-selenium-cucumber\src\test\java\com\e2eTest\altran\TestRunner.java
+C:\Users\bougu\eclipse-workspace\framework-selenium-cucumber\src\test\java\com\e2eTest\altran\util\ChromeDriverManager.java
+C:\Users\bougu\eclipse-workspace\framework-selenium-cucumber\src\test\java\com\e2eTest\altran\util\EdgeDriverManager.java
+C:\Users\bougu\eclipse-workspace\framework-selenium-cucumber\src\test\java\com\e2eTest\altran\util\DriverManagerFactory.java
+C:\Users\bougu\eclipse-workspace\framework-selenium-cucumber\src\test\java\com\e2eTest\altran\util\DriverType.java
+C:\Users\bougu\eclipse-workspace\framework-selenium-cucumber\src\test\java\com\e2eTest\altran\util\AbstractPage.java
+C:\Users\bougu\eclipse-workspace\framework-selenium-cucumber\src\test\java\com\e2eTest\altran\util\FirefoxDriverManager.java
+C:\Users\bougu\eclipse-workspace\framework-selenium-cucumber\src\test\java\com\e2eTest\altran\webSiteAltran\stepDefinitions\WebSiteAltranStepDefinition.java
+C:\Users\bougu\eclipse-workspace\framework-selenium-cucumber\src\test\java\com\e2eTest\altran\cseAltran\stepDefinitions\CseAltranDemoStepDefinition.java
+C:\Users\bougu\eclipse-workspace\framework-selenium-cucumber\src\test\java\com\e2eTest\altran\util\Setup.java

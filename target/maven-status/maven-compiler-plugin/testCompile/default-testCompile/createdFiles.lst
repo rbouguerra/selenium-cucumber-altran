@@ -1,0 +1,16 @@
+com\e2eTest\altran\webSiteAltran\stepDefinitions\WebSiteAltranStepDefinition.class
+com\e2eTest\altran\util\DriverType.class
+com\e2eTest\altran\util\DriverManagerFactory$1.class
+com\e2eTest\altran\util\EdgeDriverManager.class
+com\e2eTest\altran\util\ChromeDriverManager.class
+com\e2eTest\altran\TestRunner.class
+com\e2eTest\altran\util\CommonMethods.class
+com\e2eTest\altran\util\FirefoxDriverManager.class
+com\e2eTest\altran\webSiteAltran\pageObjects\WebSiteAltranPage.class
+com\e2eTest\altran\util\InternetExplorerDriver.class
+com\e2eTest\altran\cseAltran\stepDefinitions\CseAltranDemoStepDefinition.class
+com\e2eTest\altran\util\DriverManagerFactory.class
+com\e2eTest\altran\util\AbstractPage.class
+com\e2eTest\altran\cseAltran\pageObjects\CseAltranDemoPage.class
+com\e2eTest\altran\util\DriverManager.class
+com\e2eTest\altran\util\Setup.class

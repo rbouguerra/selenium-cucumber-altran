@@ -1,0 +1,15 @@
+2020-12-02 14:07:53,685 - com.e2eTest.altran.util.AbstractPage - INFO - J ouvre l application CSE Altran
+2020-12-02 14:07:53,994 - com.e2eTest.altran.util.AbstractPage - INFO - Je saisie mon adresse email
+2020-12-02 14:07:54,144 - com.e2eTest.altran.util.AbstractPage - INFO - Je saisie mon mot de passe
+2020-12-02 14:07:56,977 - com.e2eTest.altran.util.AbstractPage - INFO - Je clique sur le bouton Je m identifie
+2020-12-02 14:07:57,007 - com.e2eTest.altran.util.AbstractPage - INFO - Redirection vers la page Home
+2020-12-02 14:08:05,094 - com.e2eTest.altran.util.AbstractPage - INFO - Je clique sur Ticket Billetterie apres je clique sur J EN PROFITE de Parc Loisirs
+2020-12-02 14:08:12,051 - com.e2eTest.altran.util.AbstractPage - INFO - Je clique sur Avantages apres je clique sur Enveloppe 2020
+2020-12-02 14:08:14,968 - com.e2eTest.altran.util.AbstractPage - INFO - Je clique sur parc et loisirs
+2020-12-02 14:08:20,541 - com.e2eTest.altran.util.AbstractPage - INFO - Je tape dans la barre de recherche 'zoo de vincennes' et je clique sur le bouton rechercher
+2020-12-02 14:08:22,988 - com.e2eTest.altran.util.AbstractPage - INFO - Je clique une seule fois sur + pour ajouter un billet a mon choix Entrée Enfant 3 à 12 ans inclus
+2020-12-02 14:08:27,417 - com.e2eTest.altran.util.AbstractPage - INFO - Je clique deux fois sur + pour ajouter deux billets a mon choix Entrée Adulte 13 ans et plus
+2020-12-02 14:08:27,524 - com.e2eTest.altran.util.AbstractPage - INFO - Je clique sur ajouter a mon panier
+2020-12-02 14:08:31,367 - com.e2eTest.altran.util.AbstractPage - INFO - Je clique sur voir mon panier
+2020-12-02 14:08:33,935 - com.e2eTest.altran.util.AbstractPage - INFO - Je clique sur l icone x a droite pour annuler mon premier choix et je confirme la suppression
+2020-12-02 14:08:38,403 - com.e2eTest.altran.util.AbstractPage - INFO - Je clique sur l icone x a droite pour annuler mon deuxieme choix et je confirme la suppression

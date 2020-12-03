@@ -1,0 +1,322 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 10087578200,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Setup.setup()"
+            }
+          }
+        ],
+        "line": 6,
+        "name": "Authentification - Cse Altran",
+        "description": "",
+        "id": "cse-altran;authentification---cse-altran",
+        "after": [
+          {
+            "result": {
+              "duration": 181099,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Setup.embedScreenshot(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 1014034099,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "J ouvre l application CSE Altran",
+            "match": {
+              "location": "CseAltranDemoStepDefinition.jOuvreLApplicationCSEAltran()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 311598900,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "Je saisie mon adresse email \"ridha.bouguerra@altran.com\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "ridha.bouguerra@altran.com",
+                  "offset": 29
+                }
+              ],
+              "location": "CseAltranDemoStepDefinition.jeSaisieMonAdresseEmail(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 154580699,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "Je saisie mon mot de passe \"test1234A+\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "test1234A+",
+                  "offset": 28
+                }
+              ],
+              "location": "CseAltranDemoStepDefinition.jeSaisieMonMotDePasse(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1888991100,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "Je clique sur le bouton Je m identifie",
+            "match": {
+              "location": "CseAltranDemoStepDefinition.jeCliqueSurLeButtonJeMIdentifie()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 18530800,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "Redirection vers la page Home",
+            "match": {
+              "location": "CseAltranDemoStepDefinition.redirectionVersLaPageHome()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 7773515301,
+              "status": "passed"
+            },
+            "comments": [
+              {
+                "line": 12,
+                "value": "#@chequeCadeaux"
+              },
+              {
+                "line": 13,
+                "value": "#Scenario: Mes cadeaux - Cse Altran"
+              }
+            ],
+            "line": 14,
+            "name": "Je clique sur Ticket Billetterie apres je clique sur J EN PROFITE de Parc Loisirs",
+            "match": {
+              "location": "CseAltranDemoStepDefinition.jeCliqueSurTicketBilletterieapresjecliquesurJENPROFITEdeParcLoisirs()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 5840340500,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "Je clique sur Avantages apres je clique sur Enveloppe2020",
+            "match": {
+              "location": "CseAltranDemoStepDefinition.JecliquesurAvantagesapresjeCliqueSurEnveloppe()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2712034500,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "Je clique sur parc et loisirs",
+            "match": {
+              "location": "CseAltranDemoStepDefinition.jeCliqueSurParcEtLoisirs()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 4925433500,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "Je tape dans la barre de recherche \"zoo de vincennes\" et je clique sur le bouton rechercher",
+            "match": {
+              "arguments": [
+                {
+                  "val": "zoo de vincennes",
+                  "offset": 36
+                }
+              ],
+              "location": "CseAltranDemoStepDefinition.jeTapeDansLaBarreDeRechercheEtJeCliqueSurLeBouttonRechercher(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2512888599,
+              "status": "passed"
+            },
+            "line": 18,
+            "name": "Je clique une seule fois sur + pour ajouter un billet a mon choix Entrée Enfant3 à12 ans inclus",
+            "match": {
+              "location": "CseAltranDemoStepDefinition.jeCliqueUneSeuleFoisSurPourAjouterUnBilletAMonChoixEntréeEnfantÀAnsInclus()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 4461707200,
+              "status": "passed"
+            },
+            "line": 19,
+            "name": "Je clique deux fois sur + pour ajouter deux billets a mon choix Entrée Adulte13 ans et plus",
+            "match": {
+              "location": "CseAltranDemoStepDefinition.jeCliqueDeuxFoisSurPourAjouterDeuxBilletsAMonChoixEntréeAdulteAnsEtPlus()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 185731699,
+              "status": "passed"
+            },
+            "line": 20,
+            "name": "Je clique sur ajouter a mon panier",
+            "match": {
+              "location": "CseAltranDemoStepDefinition.jeCliqueSurAjouterAMonPanier()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 3963948300,
+              "status": "passed"
+            },
+            "line": 21,
+            "name": "Je clique sur voir mon panier",
+            "match": {
+              "location": "CseAltranDemoStepDefinition.jeCliqueSurVoirMonPanier()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2697221299,
+              "status": "passed"
+            },
+            "line": 22,
+            "name": "Je clique sur l icone x a droite pour annuler mon premier choix et je confirme la suppression",
+            "match": {
+              "location": "CseAltranDemoStepDefinition.jeCliqueSurLIconeXADroitePourAnnulerMonPremierChoixEtJeConfirmeLaSuppression()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 4415524400,
+              "status": "passed"
+            },
+            "line": 23,
+            "name": "Je clique sur l icone x a droite pour annuler mon deuxieme choix et je confirme la suppression",
+            "match": {
+              "location": "CseAltranDemoStepDefinition.jeCliqueSurLIconeXADroitePourAnnulerMonDeuxiemeChoixEtJeConfirmeLaSuppression()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 3134215100,
+              "status": "passed"
+            },
+            "line": 24,
+            "name": "Je clique sur retournez au site CSE ALTRAN IDF",
+            "match": {
+              "location": "CseAltranDemoStepDefinition.jeCliqueSurRetournezAuSiteCSEALTRANIDF()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 31982600,
+              "status": "passed"
+            },
+            "line": 25,
+            "name": "Redirection vers la page Myclub",
+            "match": {
+              "location": "CseAltranDemoStepDefinition.redirectionVersLaPageMyclub()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 2915512900,
+              "status": "passed"
+            },
+            "comments": [
+              {
+                "line": 26,
+                "value": "#@DecnxCse"
+              },
+              {
+                "line": 27,
+                "value": "#Scenario: Deconnexion - Cse Altran"
+              }
+            ],
+            "line": 28,
+            "name": "Je mets le curseur sur M. Ridha BOUGUERRA et je clique sur Se deconnecter",
+            "match": {
+              "location": "CseAltranDemoStepDefinition.jeMetsLeCurseurSurMRidhaBOUGUERRAEtJeCliqueSurSeDeconnecter()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 22834901,
+              "status": "passed"
+            },
+            "line": 29,
+            "name": "Redirection vers la page d authentification",
+            "match": {
+              "location": "CseAltranDemoStepDefinition.redirectionVersLaPageDAuthentification()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 5,
+            "name": "@cnxCse"
+          }
+        ]
+      }
+    ],
+    "name": "Cse Altran",
+    "description": "En tant que personnel Altran je souhaite voir les offres de la CSE",
+    "id": "cse-altran",
+    "keyword": "Feature",
+    "uri": "altran/CseAltranDemo.feature",
+    "tags": [
+      {
+        "line": 1,
+        "name": "@cseAltran"
+      }
+    ]
+  }
+]
